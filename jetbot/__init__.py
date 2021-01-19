@@ -1,3 +1,4 @@
+from .pwm import Pwm
 from .camera import Camera
 from .heartbeat import Heartbeat
 from .motor import Motor
